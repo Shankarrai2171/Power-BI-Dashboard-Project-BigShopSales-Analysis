@@ -39,4 +39,3 @@
 
 # Dashboard Testing and Deployment:
 ## Test the dashboard for functionality and performance.
-## Deploy the dashboard to Power BI Service for access by stakeholders.
